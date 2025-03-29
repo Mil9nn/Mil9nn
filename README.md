@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Murli Manohar Milan Singh]
+# 👋 Hi there, I'm Murli Manohar Milan Singh
 
 ## About Me
 Full-stack developer passionate about creating efficient, user-friendly applications. I enjoy solving complex problems and learning new technologies.
@@ -12,7 +12,7 @@ Full-stack developer passionate about creating efficient, user-friendly applicat
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Mil9nn&show_icons=true&theme=radical)
 
 ## 🌱 I'm currently learning
 - Machine Learning with TensorFlow
